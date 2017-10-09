@@ -1,4 +1,6 @@
 {
+  "name": "handlebars",
+  "version": "4.0.4",
   "jspm": {
     "main": "handlebars",
     "shim": { "handlebars": { "exports": "Handlebars" } },
